@@ -1,8 +1,8 @@
 #include <unistd.h>
 /**
- *thi is a Comment
+ * main - function
  *
- * Betty Style
+ * Return : aways 1
  */
 int main(void)
 {
