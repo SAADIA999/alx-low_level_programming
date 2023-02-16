@@ -2,7 +2,7 @@
 /**
  * main - Starting the program
  *
- * Return : aways 1
+ * Return: Always 1 (Success)
  */
 int main(void)
 {
