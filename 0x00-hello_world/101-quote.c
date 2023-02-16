@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
- * main - function
+ * main - Starting the program
  *
  * Return : aways 1
  */
