@@ -1,6 +1,11 @@
 #include <stdio.h>
 
-int main(void){
-printf("In the depths of winter, I finally learned that within me there lay an invincible summer.\n");
-return 0;
+/**
+ * Hello from Saadia's Code
+*/
+
+int main(void)
+{
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+	return (0);
 }
